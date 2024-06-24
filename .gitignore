@@ -1,0 +1,10 @@
+# ignorar carpeta node_modules
+node_modules
+# Construcciones y artefactos de producción
+build/
+dist/
+# Sistemas operativos
+.DS_Store
+Thumbs.db\
+# Editor
+.vscode/
